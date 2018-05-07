@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>samudranb.com/post/death-and-rebirth/</loc>
+    <loc>https://samudranb.com/post/death-and-rebirth/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>samudranb.com/</loc>
-    <lastmod>2018-05-06T16:57:29-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>samudranb.com/tags/beginnings/</loc>
+    <loc>https://samudranb.com/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samudranb.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>samudranb.com/tags/death/</loc>
+    <loc>https://samudranb.com/tags/beginnings/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samudranb.com/tags/ends/</loc>
+    <loc>https://samudranb.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samudranb.com/tags/death/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samudranb.com/tags/life/</loc>
+    <loc>https://samudranb.com/tags/ends/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samudranb.com/post/</loc>
+    <loc>https://samudranb.com/tags/life/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>samudranb.com/tags/</loc>
+    <loc>https://samudranb.com/post/</loc>
+    <lastmod>2018-05-06T16:57:29-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samudranb.com/tags/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
