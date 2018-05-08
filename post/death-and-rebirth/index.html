@@ -376,66 +376,67 @@ $(document).ready(function () {
 
     update();
 });
+</script>
+<script>
+    function isElementInViewport (el) {
 
-function isElementInViewport (el) {
-
+        
+        if (typeof jQuery === "function" && el instanceof jQuery) {
+            el = el[0];
+        }
     
-    if (typeof jQuery === "function" && el instanceof jQuery) {
-        el = el[0];
+        var rect = el.getBoundingClientRect();
+    
+        return (
+            rect.top >= 0 &&
+            rect.left >= 0 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&  
+            rect.right <= (window.innerWidth || document.documentElement.clientWidth)  
+        );
     }
-
-    var rect = el.getBoundingClientRect();
-
-    return (
-        rect.top >= 0 &&
-        rect.left >= 0 &&
-        rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&  
-        rect.right <= (window.innerWidth || document.documentElement.clientWidth)  
-    );
-}
-
-function onVisibilityChange(el, callback) {
-    var old_visible;
-    return function () {
-        var visible = isElementInViewport(el);
-        if (visible != old_visible) {
-            old_visible = visible;
-            if (typeof callback == 'function') {
-                callback(visible);
+    
+    function onVisibilityChange(el, callback) {
+        var old_visible;
+        return function () {
+            var visible = isElementInViewport(el);
+            if (visible != old_visible) {
+                old_visible = visible;
+                if (typeof callback == 'function') {
+                    callback(visible);
+                }
             }
         }
     }
-}
-
-var post_read = (function() {
-    console.log("inside post_read");
-    var executed = false;
-    return function() {
-        if (!executed) {
-            executed = true;
-            console.log("Fired Once at: "+ window.scrollY);
-            ga('send', {
-                'hitType': 'event',            
-                'eventCategory': 'On Posts',   
-                'eventAction': 'Read Fully',  
-                'eventLabel': 'Read Fully'
-            });
+    
+    var post_read = (function() {
+        
+        var executed = false;
+        return function() {
+            if (!executed) {
+                executed = true;
+                
+                ga('send', {
+                    'hitType': 'event',            
+                    'eventCategory': 'On Posts',   
+                    'eventAction': 'Read Fully',  
+                    'eventLabel': 'Read Fully'
+                });
+            }
         }
-    }
-})();
-
-var handler = onVisibilityChange(document.getElementById('disqus_thread'), function(visible) {
-    console.log("visibility changed: " + visible + " at "+ window.scrollY);
-    if (visible)
-    {
-        post_read();
-    }
-});
-
-
-
-
-$(window).on('DOMLoaded load resize scroll', handler); 
-
+    })();
+    
+    var handler = onVisibilityChange(document.getElementById('disqus_thread'), function(visible) {
+        
+        if (visible)
+        {
+            post_read();
+        }
+    });
+    
+    
+    
+    
+    $(window).on('DOMLoaded load resize scroll', handler); 
+    
 </script>
 </body></html>
