@@ -3,53 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.samudranb.com/post/death-and-rebirth/</loc>
+    <loc>http://samudranb.com/posts/a-penny-for-my-add-thoughts/</loc>
+    <lastmod>2018-05-12T15:07:06-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/posts/death-and-rebirth/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.samudranb.com/</loc>
-    <lastmod>2018-05-06T16:57:29-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.samudranb.com/tags/beginnings/</loc>
-    <lastmod>2018-05-06T16:57:29-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.samudranb.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.samudranb.com/tags/death/</loc>
+    <loc>http://samudranb.com/tags/beginnings/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.samudranb.com/tags/ends/</loc>
+    <loc>http://samudranb.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/tags/death/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.samudranb.com/tags/life/</loc>
+    <loc>http://samudranb.com/tags/ends/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.samudranb.com/post/</loc>
+    <loc>http://samudranb.com/tags/fiction/</loc>
+    <lastmod>2018-05-12T15:07:06-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/tags/life/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.samudranb.com/tags/</loc>
+    <loc>http://samudranb.com/posts/</loc>
+    <lastmod>2018-05-12T15:07:06-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/</loc>
+    <lastmod>2018-05-12T15:07:06-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/tags/self/</loc>
+    <lastmod>2018-05-12T15:07:06-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://samudranb.com/tags/</loc>
     <lastmod>2018-05-06T16:57:29-07:00</lastmod>
     <priority>0</priority>
   </url>
