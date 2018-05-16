@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Samudra&#39;s thoughts on</title>
-    <link>http://www.samudranb.com/categories/</link>
+    <link>http://samudranb.com/categories/</link>
     <description>Recent content in Categories on Samudra&#39;s thoughts on</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="http://www.samudranb.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://samudranb.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
