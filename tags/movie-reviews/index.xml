@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie Reviews on Samudra&#39;s thoughts on</title>
+    <link>http://www.samudranb.com/tags/movie-reviews/</link>
+    <description>Recent content in Movie Reviews on Samudra&#39;s thoughts on</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 May 2018 15:26:18 -0700</lastBuildDate>
+    
+	<atom:link href="http://www.samudranb.com/tags/movie-reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2001 - A Space Odyssey - A Review</title>
+      <link>http://www.samudranb.com/post/2001---a-space-odyssey---a-review/</link>
+      <pubDate>Sun, 20 May 2018 15:26:18 -0700</pubDate>
+      
+      <guid>http://www.samudranb.com/post/2001---a-space-odyssey---a-review/</guid>
+      <description>I am going to assume that you have already seen this movie, and are open to discussing what would otherwise be spoilers. Turn around NOW if you have not seen this movie yet!
+Also, I have not yet read the books or watched the other movies, so some of my thoughts below might be divergent from what was uncovered in those later works.
+What a great weekend! It all started with a session on focus to fix the issues with my blog deployment - something had broken when I had deployed Hugo the last time and I hadn&amp;rsquo;t been able to fix it.</description>
+    </item>
+    
+  </channel>
+</rss>
