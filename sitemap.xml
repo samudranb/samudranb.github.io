@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.samudranb.com/post/spoiler-free-review-of-my-favorite-tv-police-procedural-comedy-episode-ever/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.samudranb.com/post/2001---a-space-odyssey---a-review/</loc>
     <lastmod>2018-05-20T15:26:18-07:00</lastmod>
   </url>
@@ -30,7 +35,19 @@
   </url>
   
   <url>
+    <loc>http://www.samudranb.com/tags/brooklyn-nine-nine/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.samudranb.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.samudranb.com/tags/comedy/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,20 +82,32 @@
   </url>
   
   <url>
+    <loc>http://www.samudranb.com/tags/police-procedural/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.samudranb.com/post/</loc>
-    <lastmod>2018-05-20T15:26:18-07:00</lastmod>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.samudranb.com/tags/reviews/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.samudranb.com/categories/reviews/</loc>
-    <lastmod>2018-05-20T15:26:18-07:00</lastmod>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.samudranb.com/</loc>
-    <lastmod>2018-05-20T15:26:18-07:00</lastmod>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,6 +126,18 @@
   <url>
     <loc>http://www.samudranb.com/tags/</loc>
     <lastmod>2018-05-20T15:26:18-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.samudranb.com/tags/tv/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.samudranb.com/tags/tv-show/</loc>
+    <lastmod>2018-06-20T17:01:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
